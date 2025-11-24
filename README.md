@@ -1,6 +1,5 @@
 # Advanced-Time-Series-Forecasting-with-Attention-Based-LSTM-Networks
 
-📈 Advanced Time Series Forecasting with Attention-Based LSTM Networks
 Overview
 
 This project explores an advanced deep learning model for multivariate time-series forecasting using a custom Attention-LSTM network.
